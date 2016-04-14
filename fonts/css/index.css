@@ -1,0 +1,36 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    }
+   
+ h1,h2 {
+     font-family: 'Oswald', sans-serif;
+     font-size: 35px;
+ }
+ 
+ .tag-line{
+     font-variant: small-caps;
+ }
+ 
+ .sec1{
+     background-color: #999;
+ }
+ .sec2{
+     background-color: aqua;
+ }
+ 
+ .tag-line,.sec1,.sec2 {
+     padding: 1em;
+ }
+ a {
+     text-decoration: none;
+ }
+ svg{
+     height: 2em;
+     fill: beige;
+     stroke: blueviolet;
+ }
+ 
+ 
